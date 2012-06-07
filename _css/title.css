@@ -1,0 +1,11 @@
+h1 {
+    color : #d20000; font-size : 35px; letter-spacing: 35px;
+}
+
+h1 span {
+    color : black; letter-spacing: 1px; padding-left :10px;
+}
+
+h2  {
+    font-size : 19px; margin-left : 15px; letter-spacing: 1px;
+}
